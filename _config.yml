@@ -23,7 +23,7 @@ repository               : "littlepotter/littlepotter.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_image.png"
+  avatar           : "/images/profile_image.png"
   name             : "Xingrui Li" 
   bio              : "Beihang University"
   location         : "China Beijing"
