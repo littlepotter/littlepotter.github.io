@@ -9,9 +9,9 @@ redirect_from:
 
 Hi! I'm an undergraduate student at Beihang University (BUAA), majoring in Biomedical Engineering.
 
-📚 Core Interests: Medical Image Analysis, Computer Vision, Deep Learning
-🔬 Current Research: Medical image registration (SAM-based methods), Alzheimer's disease analysis
-🧠 Skills: Python, PyTorch, OpenCV, Medical Imaging Processing
+- 📚 Core Interests: Medical Image Analysis, Computer Vision, Deep Learning
+- 🔬 Current Research: Medical image registration (SAM-based methods), Alzheimer's disease analysis
+- 🧠 Skills: Python, PyTorch, OpenCV, Medical Imaging Processing
 
 ---
 
