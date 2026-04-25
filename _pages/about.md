@@ -9,25 +9,48 @@ redirect_from:
 
 Hi! I'm an undergraduate student at Beihang University (BUAA), majoring in Biomedical Engineering.
 
-- 📚 Core Interests: Medical Image Analysis, Computer Vision, Deep Learning
-- 🔬 Current Research: Medical image registration (SAM-based methods), Alzheimer's disease analysis
-- 🧠 Skills: Python, PyTorch, OpenCV, Medical Imaging Processing
+- 📚 Research Interests: Medical Image Analysis, Computer Vision, Deep Learning
+- 🔬 Current Research: 
+  - Medical image registration with SAM-based methods 
+  - Alzheimer's disease diagnosis using MRI
+- 🧠 Skills: Python, PyTorch, OpenCV, Medical Image Processing
 
 ---
 
+## 🚀 Research Focus
+
+I am actively working on research problems in medical image analysis, with a focus on:
+
+- Cross-modality and histopathology image registration
+- Applying foundation models (e.g., SAM) to medical imaging tasks
+- Interpretable deep learning for neurodegenerative disease analysis
+
+---
+
+## 📌 Selected Projects
+
+### 🔹 SAMRegH (Ongoing)
+Medical image registration using Segment Anything Model (SAM)
+
+### 🔹 Alzheimer's Disease Analysis
+MRI-based diagnosis using ADNI dataset with interpretable deep learning
+
+---
+
+
 ## 📊 What I'm Doing Now
 
-- 📖 Reading cutting-edge papers in deep learning,medical image processing and so on
+- 📖 Systematically reading papers in deep learning,medical image processing and so on
 - 🔧 Improving registration models and visualization tools
-- ✍️ Writing academic papers and preparing for graduate research
+- ✍️ Preparing for graduate-level research
 
 ---
 
 ## 🌱 Goals
 
 - Pursue graduate studies in Medical AI / Computer Vision
-- Contribute to impactful research in healthcare AI
-- Build reproducible and open-source research projects
+- Conduct research with real clinical impact
+- Contribute to open-source and reproducible research
 
 ---
 
