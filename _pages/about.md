@@ -29,10 +29,10 @@ I am actively working on research problems in medical image analysis, with a foc
 
 ## 📌 Selected Projects
 
-### 🔹 SAMRegH (Ongoing)
+### 🔹 SAM-based unsupervised registration framework (Ongoing)
 Medical image registration using Segment Anything Model (SAM)
 
-### 🔹 Alzheimer's Disease Analysis
+### 🔹 Alzheimer's Disease Analysis(Ongoing)
 MRI-based diagnosis using ADNI dataset with interpretable deep learning
 
 ---
@@ -57,4 +57,3 @@ MRI-based diagnosis using ADNI dataset with interpretable deep learning
 ## 📫 Contact
 
 - Email: 23101064@buaa.edu.cn
-- GitHub: https://github.com/littlepotter 
