@@ -40,7 +40,7 @@ MRI-based diagnosis using ADNI dataset with interpretable deep learning
 
 ## 📊 What I'm Doing Now
 
-- 📖 Systematically reading papers in deep learning,medical image processing and so on
+- 📖 Systematically reading papers in deep learning, medical image processing and so on
 - 🔧 Improving registration models and visualization tools
 - ✍️ Preparing for graduate-level research
 
